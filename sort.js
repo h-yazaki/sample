@@ -1,4 +1,4 @@
-// ƒ\[ƒgˆ—
+// ã‚½ãƒ¼ãƒˆå‡¦ç†
 var sortNumber = function (number) {
    number.sort(function (a, b) {
        if (a === b) {
@@ -8,7 +8,7 @@ var sortNumber = function (number) {
    });
 };
 
-// ƒƒCƒ“ˆ—
+// ãƒ¡ã‚¤ãƒ³å‡¦ç†
 var number = [19, 3, 81, 1, 24, 21];
 sortNumber(number);
 console.log(number);
